@@ -19,8 +19,8 @@ I currently work at a lawtech using statistics, Machine Learning and Monte Carlo
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ### Here are some ideas to get you started:
-- 🔭[How to use ML for predict Breast Cancer Diagnosis and Deploy It](https://github.com/garaujo94/breast-cancer-diagnostic)
-- 🔭[My Final Project at MBA. How to use Deep Learning to recognize constellations - PoC](https://github.com/garaujo94/tcc-bi-master)
+- 🔭 [How to use ML for predict Breast Cancer Diagnosis and Deploy It](https://github.com/garaujo94/breast-cancer-diagnostic)
+- 🌱 [My Final Project at MBA. How to use Deep Learning to recognize constellations - PoC](https://github.com/garaujo94/tcc-bi-master)
 <!--
 **garaujo94/garaujo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
