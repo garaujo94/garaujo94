@@ -1,4 +1,5 @@
 ## Welcome to my Github!
+![Header](https://github.com/garaujo94/garaujo94/blob/main/Gustavo_raujo.png "Header")
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garaujo94)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-a-l-araujo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/gustavo-a-l-araujo/)
