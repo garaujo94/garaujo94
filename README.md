@@ -19,7 +19,7 @@ I currently work at a lawtech using statistics, Machine Learning and Monte Carlo
 ![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-### Here are some ideas to get you started:
+### some projects for you to know me a little better:
 - 🔭 [How to use ML for predict Breast Cancer Diagnosis and Deploy It](https://github.com/garaujo94/breast-cancer-diagnostic)
 - 🌱 [My Final Project at MBA. How to use Deep Learning to recognize constellations - PoC](https://github.com/garaujo94/tcc-bi-master)
 <!--
