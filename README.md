@@ -9,7 +9,7 @@ I'm a data scientist Addicted to optimization and productivity, I've always want
 
 I currently have a Technical MBA focused on Machine Learning, Big Data, Smart Methods and mathematical and statistical decision support methods at Pontifical Catholic University of Rio de Janeiro, and I am a master's student in electrical engineering at Federal Center of Technological Education of Rio de Janeiro.
 
-I currently work at a lawtech using statistics, Machine Learning and Monte Carlo simulation to predict conviction rates in lawsuits, project portfolio values ​​and more.
+I currently work at a lawtech using statistics, Machine Learning and Monte Carlo simulation to predict conviction rates in lawsuits, project portfolio values ​​and more. And I am the leader of the AI ​​research group at the Brazilian Naval Warfare School.
 
 ### Skills
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
